@@ -28,9 +28,9 @@ Supported arguments:
 ```
 
 - 计算机科学与技术，硕士
-- [**Human-in-the-Loop Domain-Model Acquisition**](https://icaps18.icaps-conference.org/fileadmin/alg/conferences/icaps18/files/demos/1_Human-in-the-Loop_Domain-Model_Acquisition.pdf)
-**Yuncong Li**, Hankz Hankui Zhuo<br> 
-_CCF-B, [ICAPS 2018, System Demonstrations and Exhibits](https://icaps18.icaps-conference.org/demos/index.html)_ <br>
+- [**Human-in-the-Loop Domain-Model Acquisition**](https://icaps18.icaps-conference.org/fileadmin/alg/conferences/icaps18/files/demos/1_Human-in-the-Loop_Domain-Model_Acquisition.pdf)<br>
+  - **Yuncong Li**, Hankz Hankui Zhuo<br> 
+  - _[ICAPS 2018, System Demonstrations and Exhibits](https://icaps18.icaps-conference.org/demos/index.html) - CCF B_ <br>
 
 ### **中山大学** `2012.09 - 2016.06`
 
@@ -40,27 +40,22 @@ _CCF-B, [ICAPS 2018, System Demonstrations and Exhibits](https://icaps18.icaps-c
 
 - 软件工程，本科
 
-## 学术经历
-
-### [**Human-in-the-Loop Domain-Model Acquisition**](https://icaps18.icaps-conference.org/fileadmin/alg/conferences/icaps18/files/demos/1_Human-in-the-Loop_Domain-Model_Acquisition.pdf)
-**Yuncong Li**, Hankz Hankui Zhuo<br> 
-_CCF-B, [ICAPS 2018, System Demonstrations and Exhibits](https://icaps18.icaps-conference.org/demos/index.html)_ <br>
-
 ## 工作经历
 ### **Shopee** `2018.07 -`
 
-_Research Intern - Machine Intelligence_<br>
+```
+深圳市
+```
 
-### **Microsoft Research** `2020.5 - 2020.8`
-
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+- Expert Engineer
+- 电商爬虫系统
+- 通用爬虫平台
 
 ## 专业技能
 
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2022` <br>
+#### 中间件: MySQL, TiDB, Redis, HBase, Kafka
+#### 编程语言: Golang
+#### 其他：Linux
 
 <!-- ### Footer
 
