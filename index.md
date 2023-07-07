@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: Unso Li
-求职意向：爬虫资深工程师
 phone: 13824480681
 email:
   url: mailto:996832853@qq.com
