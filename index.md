@@ -1,6 +1,7 @@
 ---
 layout: cv
 title: Unso Li
+求职意向：爬虫资深工程师
 phone: 13824480681
 email:
   url: mailto:996832853@qq.com
@@ -28,9 +29,6 @@ Supported arguments:
 ```
 
 - 计算机科学与技术，硕士
-- [**Human-in-the-Loop Domain-Model Acquisition**](https://icaps18.icaps-conference.org/fileadmin/alg/conferences/icaps18/files/demos/1_Human-in-the-Loop_Domain-Model_Acquisition.pdf)<br>
-  - **Yuncong Li**, Hankz Hankui Zhuo<br> 
-  - _[ICAPS 2018, System Demonstrations and Exhibits](https://icaps18.icaps-conference.org/demos/index.html) - CCF B_ <br>
 
 ### **中山大学** `2012.09 - 2016.06`
 
@@ -49,13 +47,14 @@ Supported arguments:
 
 - Expert Engineer
 - 电商爬虫系统
+  - 提供多个竞品平台、多个维度的电商数据爬虫能力，
 - 通用爬虫平台
 
 ## 专业技能
 
-#### 中间件: MySQL, TiDB, Redis, HBase, Kafka
-#### 编程语言: Golang
-#### 其他：Linux
+### 消息中间件：Kafka
+### 数据库：Redis, MySQL, TiDB, HBase
+### 编程语言 Golang
 
 <!-- ### Footer
 
