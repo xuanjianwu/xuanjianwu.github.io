@@ -51,9 +51,9 @@ Supported arguments:
 
 ## 专业技能
 
-### 消息中间件：Kafka
-### 数据库：Redis, MySQL, TiDB, HBase
-### 编程语言 Golang
+### **消息中间件**：Kafka
+### **数据库**：Redis, MySQL, TiDB, HBase
+### **编程语言** Golang
 
 <!-- ### Footer
 
